@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi! I am PickledDragon👋
+- 🎩 I am a multi-hat wearing IT professional with domain backgrounds in aviation and banking
+- 🥋 I occassionally practice my Java, EIP & [Camel](https://github.com/apache/camel) knowledge here
+- 🌱 I’m currently learning [Go](https://golang.org/) and [Rust](https://www.rust-lang.org/)
+- ✍️ Some day, I want to [restart writing](https://github.com/PickledDragon/pickleddragon-hugo-source) as well
 
 <!--
 **PickledDragon/PickledDragon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
